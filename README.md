@@ -4,7 +4,7 @@ O CordierBot é uma assistente virtual feita com o objetivo de prospectar e atra
 
 O bot ainda está em construção, portando muitas melhorias ainda serão realizadas visando torná-lo cada vez mais inteligente e responsivo.
 
-Ele foi construído inteiramente usando HTML, CSS, Javascript e o framework BotUi.
+Ele foi construído inteiramente usando HTML, CSS, Javascript e o framework BotUI.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
